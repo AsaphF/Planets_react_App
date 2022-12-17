@@ -1,0 +1,12 @@
+.grey_img{
+    width: 300px;
+    filter: grayscale(100%);
+}
+
+.color_img{
+    width: 300px;
+  
+}
+.planet_section{
+    margin-left: 1em;
+}
